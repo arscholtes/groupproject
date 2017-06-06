@@ -4,7 +4,6 @@ function maxOfThree(num1, num2, num3)
     var max = Math.max(num1, num2, num3);
     return max;
 }
-alert(maxOfThree(56,29,7));
 
 
 function max (x, y){
@@ -20,7 +19,7 @@ function max (x, y){
 function sum(x,y){
   return x+y;
 }
-sum(1,2);
+
 
 
 function greet (Name) {
