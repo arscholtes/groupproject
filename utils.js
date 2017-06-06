@@ -70,7 +70,7 @@ function greaterThan (p1,p2) {
 
 //vowels true or false//
 
-function vowel (x) {
+function isVowel (x) {
   if (x == "a" || x =="e" || x =="i" || x == "o" || x == "u"){
     result = true
   }
