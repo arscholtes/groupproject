@@ -25,7 +25,7 @@ sum(1,2);
 
 function greet (Name) {
 
-  return "Hello, " + Name ;
+  return "Hello, " + Name + '!' ;
 }
 
 
