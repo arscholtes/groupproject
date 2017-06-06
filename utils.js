@@ -1,5 +1,5 @@
 
 function greet (Name) {
 
-  return "Hello, " + Name ;
+  return "Hello, " + Name + "!" ;
 }
